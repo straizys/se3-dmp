@@ -1,0 +1,1 @@
+Encodes the end-effector pose trajectory in SE(3).
